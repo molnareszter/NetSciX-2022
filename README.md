@@ -1,6 +1,6 @@
 # The economic interdependence of industries: a network science approach (NetSciX 2022 poster)
 
-Conference: https://netscix.dcc.fc.up.pt/accepted-submissions
+Conference: https://netscix.dcc.fc.up.pt/accepted-submissions  
 Presentation of the poster: https://www.youtube.com/watch?v=RcCwwLBHm0U
 
 **Background**  
